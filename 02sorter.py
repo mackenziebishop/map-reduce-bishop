@@ -1,7 +1,7 @@
 # Mackenzie Bishop
 #02 Sorter
 
-f = open("purchase.txt", "r")
+f = open("purchases.txt", "r")
 o = open("02.txt", "w")
 dataLines = f.readlines()
 dataLines.sort()
