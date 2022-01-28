@@ -1,8 +1,8 @@
 #Mackenzie Bishop
 #03 Reducer
 
-f = open("s.txt","r")
-o = open("r.txt", "w")
+f = open("02.txt","r")
+o = open("03.txt", "w")
 
 thisKey = ""
 thisValue = 0.0
